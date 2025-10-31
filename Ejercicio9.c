@@ -1,4 +1,4 @@
 /*Victor Seiji Nieto Morita
-clase 9 ejercicio 9*/
+clase 4 ejercicio 9*/
 
 
